@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AuctionStatus/static/css/main.c37e89d4.css",
+    "main.js": "/AuctionStatus/static/js/main.358f749d.js",
+    "static/js/787.adefee9b.chunk.js": "/AuctionStatus/static/js/787.adefee9b.chunk.js",
+    "index.html": "/AuctionStatus/index.html",
+    "main.c37e89d4.css.map": "/AuctionStatus/static/css/main.c37e89d4.css.map",
+    "main.358f749d.js.map": "/AuctionStatus/static/js/main.358f749d.js.map",
+    "787.adefee9b.chunk.js.map": "/AuctionStatus/static/js/787.adefee9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c37e89d4.css",
+    "static/js/main.358f749d.js"
+  ]
+}
