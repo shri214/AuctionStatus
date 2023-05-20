@@ -1,0 +1,30 @@
+.btn1 {
+  height: fit-content;
+  width: fit-content;
+  padding: 5px 10px;
+  background-color: rgb(252, 252, 251);
+  color: rgb(17, 16, 16);
+  border: white;
+  margin-right: 5px;
+  box-shadow: 0 0 10px 0px rgba(201, 194, 194, 0.5);
+}
+.btn1:hover {
+  color: coral;
+  background-color: rgb(189, 240, 189);
+}
+
+.btn2 {
+  height: fit-content;
+  width: fit-content;
+  padding: 5px 10px;
+  background-color: rgb(17, 17, 16);
+  color: rgb(252, 249, 249);
+  border: rgb(19, 18, 18);
+  margin-right: 5px;
+}
+.btn2:hover {
+  color: rgb(24, 24, 226);
+  border-radius: 5px;
+  background-color: rgb(249, 251, 249);
+  box-shadow: 0 0 10px 0px rgba(201, 194, 194, 0.5);
+}
